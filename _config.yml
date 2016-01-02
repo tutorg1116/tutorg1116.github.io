@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tutorg1116.github.io
+title: Tutor Sites
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
